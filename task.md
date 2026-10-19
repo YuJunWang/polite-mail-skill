@@ -9,5 +9,5 @@
 - [x] 3. 撰寫經典測試情境與多語系對照庫 `examples/test_cases.md`
 - [x] 4. 撰寫專案說明與調用指引 `README.md` (依據 de-ai skill lv3 規範重寫，納入裝潢爛尾實戰範例)
 - [x] 5. 新增 `LICENSE` (MIT) 與 `.gitignore`
-- [ ] 6. 初始化 Git Repository 並使用 GitHub CLI (`gh`) 建立公開專案
-- [ ] 7. 推送至 GitHub 並完成驗證
+- [x] 6. 初始化 Git Repository 並使用 GitHub CLI (`gh`) 建立公開專案
+- [x] 7. 推送至 GitHub 並完成驗證 (https://github.com/YuJunWang/polite-mail-skill)
